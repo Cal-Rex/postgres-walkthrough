@@ -1,6 +1,7 @@
 # you have to install psycopg2 before you can import, install psycopg2 in the
 # terminal using:
 # pip install psycopg2
+
 import psycopg2
 
 # connect to "chinook" database
